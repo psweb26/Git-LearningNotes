@@ -1,2 +1,3 @@
 This is file 2 in the Git directory.
 Git is a version control system.
+add footer section here.
