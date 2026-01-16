@@ -1,3 +1,4 @@
 I am a fixed file that should not be changed.
 I am here to ensure that some files remain unaltered.
 I provide stability in the repository.
+Please do not modify my content.
