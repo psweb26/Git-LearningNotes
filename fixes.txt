@@ -1,2 +1,4 @@
 I am a fixed file that should not be changed.
 I am here to ensure that some files remain unaltered.
+
+add another section here.
