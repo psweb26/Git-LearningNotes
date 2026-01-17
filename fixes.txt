@@ -3,3 +3,4 @@ I am here to ensure that some files remain unaltered.
 
 add another section here.
 I help maintain the integrity of the project.
+another fix for purplemode bug.
