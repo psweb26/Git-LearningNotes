@@ -3,8 +3,13 @@ Git is a version control system.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 add footer section here.
 2026 has arrived.
+=======
+2026 is the current year.
+another stash line
+>>>>>>> Stashed changes
 =======
 2026 is the current year.
 another stash line
