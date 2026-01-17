@@ -1,0 +1,2 @@
+This is file 1 in the Git directory.
+Git is a version control system.

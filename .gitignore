@@ -1,0 +1,46 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE and editors
+.vscode/
+.idea/
+*.suo
+*.swp
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.*
+*.local
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build folders
+dist/
+build/
+out/
+
+# Cache
+.cache/
+*.cache
+
+# Compiled files
+*.exe
+*.o
+*.out
+*.class
+*.pyc
+__pycache__/
+
+# Temp
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
